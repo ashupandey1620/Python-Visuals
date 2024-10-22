@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c2f7815e-1dfe-4a2d-beda-04ad28a7657d" name="Changes" comment="Numpy Part 3">
-      <change afterPath="$PROJECT_DIR$/Numpy/classFour.py" afterDir="false" />
+    <list default="true" id="c2f7815e-1dfe-4a2d-beda-04ad28a7657d" name="Changes" comment="Numpy 5">
+      <change afterPath="$PROJECT_DIR$/Numpy/classSix.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,8 +46,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.classFIve.executor": "Run",
     "Python.classFour.executor": "Run",
     "Python.classOne.executor": "Run",
+    "Python.classSix.executor": "Run",
     "Python.classThree.executor": "Run",
     "Python.classTwo.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -83,7 +85,7 @@
       <workItem from="1729570870689" duration="235000" />
       <workItem from="1729571124538" duration="4000" />
       <workItem from="1729571408392" duration="106000" />
-      <workItem from="1729571552830" duration="2670000" />
+      <workItem from="1729571552830" duration="6065000" />
     </task>
     <task id="LOCAL-00001" summary="Numpy">
       <option name="closed" value="true" />
@@ -109,7 +111,23 @@
       <option name="project" value="LOCAL" />
       <updated>1729575205906</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Numpy 4">
+      <option name="closed" value="true" />
+      <created>1729575923943</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1729575923943</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Numpy 5">
+      <option name="closed" value="true" />
+      <created>1729577767636</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1729577767636</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,12 +136,16 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Numpy" />
     <MESSAGE value="Numpy Part 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Numpy Part 3" />
+    <MESSAGE value="Numpy 4" />
+    <MESSAGE value="Numpy 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Numpy 5" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/NumpyAndPanda$classTwo.coverage" NAME="classTwo Coverage Results" MODIFIED="1729572150061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Numpy" />
     <SUITE FILE_PATH="coverage/NumpyAndPanda$classFour.coverage" NAME="classFour Coverage Results" MODIFIED="1729575877723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Numpy" />
     <SUITE FILE_PATH="coverage/NumpyAndPanda$classThree.coverage" NAME="classThree Coverage Results" MODIFIED="1729574910325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Numpy" />
+    <SUITE FILE_PATH="coverage/NumpyAndPanda$classFIve.coverage" NAME="classFIve Coverage Results" MODIFIED="1729577721831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Numpy" />
+    <SUITE FILE_PATH="coverage/NumpyAndPanda$classSix.coverage" NAME="classSix Coverage Results" MODIFIED="1729579530299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Numpy" />
     <SUITE FILE_PATH="coverage/NumpyAndPanda$classOne.coverage" NAME="classOne Coverage Results" MODIFIED="1729571443313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Numpy" />
   </component>
 </project>
