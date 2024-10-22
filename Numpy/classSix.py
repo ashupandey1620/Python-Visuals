@@ -51,9 +51,9 @@ x_tan = np.arange(0,2*np.pi,0.1)
 y_tan = np.tan(x_tan)
 print(y_tan)
 
-# x_cot = np.arange(0,2*np.pi,0.1)
-# y_cot = 1/np.tan(x_cot)
-# print(y_cot)
+x_cot = np.arange(0,2*np.pi,0.1)
+y_cot = 1/np.tan(x_cot)
+print(y_cot)
 
 plt.figure(figure = (6,6))
 plt.plot(x_tan,y_tan)
@@ -74,8 +74,8 @@ plt.plot(x_tan,y_tan,'r--')
 plt.title('Tan Curve')
 
 plt.subplot(2,2,4)
-plt.plot(x_cos,y_cos,'g--')
-plt.title('Cos Curve')
+plt.plot(x_cot,y_cot,'g--')
+plt.title('Cot Curve')
 
 plt.show()
 
