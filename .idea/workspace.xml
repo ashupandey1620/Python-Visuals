@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c2f7815e-1dfe-4a2d-beda-04ad28a7657d" name="Changes" comment="Seaborn 3 Scatter Plot">
-      <change afterPath="$PROJECT_DIR$/Seaborn/classFour.py" afterDir="false" />
+    <list default="true" id="c2f7815e-1dfe-4a2d-beda-04ad28a7657d" name="Changes" comment="Seaborn 4 BarPlot">
+      <change afterPath="$PROJECT_DIR$/Seaborn/classFive.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -93,7 +93,7 @@
       <workItem from="1729571552830" duration="6276000" />
       <workItem from="1729583806792" duration="10728000" />
       <workItem from="1729598756401" duration="3398000" />
-      <workItem from="1729654029604" duration="22901000" />
+      <workItem from="1729654029604" duration="23955000" />
     </task>
     <task id="LOCAL-00001" summary="Numpy">
       <option name="closed" value="true" />
@@ -271,7 +271,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729678986718</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Seaborn 4 BarPlot">
+      <option name="closed" value="true" />
+      <created>1729680770415</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1729680770415</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -298,14 +306,15 @@
     <MESSAGE value="Seaborn 1 Line Chart" />
     <MESSAGE value="Seaborn 2 DisPlot" />
     <MESSAGE value="Seaborn 3 Scatter Plot" />
-    <option name="LAST_COMMIT_MESSAGE" value="Seaborn 3 Scatter Plot" />
+    <MESSAGE value="Seaborn 4 BarPlot" />
+    <option name="LAST_COMMIT_MESSAGE" value="Seaborn 4 BarPlot" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/NumpyAndPanda$classNine.coverage" NAME="classNine Coverage Results" MODIFIED="1729663006449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Panda" />
     <SUITE FILE_PATH="coverage/NumpyAndPanda$classTwo.coverage" NAME="classTwo Coverage Results" MODIFIED="1729677772658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Seaborn" />
-    <SUITE FILE_PATH="coverage/NumpyAndPanda$classFour.coverage" NAME="classFour Coverage Results" MODIFIED="1729680565583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Seaborn" />
-    <SUITE FILE_PATH="coverage/NumpyAndPanda$classFive.coverage" NAME="classFive Coverage Results" MODIFIED="1729654385944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Panda" />
+    <SUITE FILE_PATH="coverage/NumpyAndPanda$classFour.coverage" NAME="classFour Coverage Results" MODIFIED="1729680703849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Seaborn" />
     <SUITE FILE_PATH="coverage/NumpyAndPanda$classTen.coverage" NAME="classTen Coverage Results" MODIFIED="1729666031588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Panda" />
+    <SUITE FILE_PATH="coverage/NumpyAndPanda$classFive.coverage" NAME="classFive Coverage Results" MODIFIED="1729681604597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Seaborn" />
     <SUITE FILE_PATH="coverage/NumpyAndPanda$classThree.coverage" NAME="classThree Coverage Results" MODIFIED="1729678912269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Seaborn" />
     <SUITE FILE_PATH="coverage/NumpyAndPanda$classFIve.coverage" NAME="classFIve Coverage Results" MODIFIED="1729577721831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Numpy" />
     <SUITE FILE_PATH="coverage/NumpyAndPanda$classSix.coverage" NAME="classSix Coverage Results" MODIFIED="1729656668245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Panda" />
