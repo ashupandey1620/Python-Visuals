@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c2f7815e-1dfe-4a2d-beda-04ad28a7657d" name="Changes" comment="Panda 3">
-      <change afterPath="$PROJECT_DIR$/Panda/classFour.py" afterDir="false" />
+    <list default="true" id="c2f7815e-1dfe-4a2d-beda-04ad28a7657d" name="Changes" comment="Panda 4">
+      <change afterPath="$PROJECT_DIR$/Panda/classFive.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,29 +44,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.classEight.executor": "Run",
-    "Python.classFIve.executor": "Run",
-    "Python.classFour.executor": "Run",
-    "Python.classOne.executor": "Run",
-    "Python.classSeven.executor": "Run",
-    "Python.classSix.executor": "Run",
-    "Python.classThree.executor": "Run",
-    "Python.classTwo.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/ashup/PycharmProjects/NumpyAndPanda",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.classEight.executor&quot;: &quot;Run&quot;,
+    &quot;Python.classFIve.executor&quot;: &quot;Run&quot;,
+    &quot;Python.classFive.executor&quot;: &quot;Run&quot;,
+    &quot;Python.classFour.executor&quot;: &quot;Run&quot;,
+    &quot;Python.classOne.executor&quot;: &quot;Run&quot;,
+    &quot;Python.classSeven.executor&quot;: &quot;Run&quot;,
+    &quot;Python.classSix.executor&quot;: &quot;Run&quot;,
+    &quot;Python.classThree.executor&quot;: &quot;Run&quot;,
+    &quot;Python.classTwo.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ashup/PycharmProjects/NumpyAndPanda&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -88,7 +89,9 @@
       <workItem from="1729571124538" duration="4000" />
       <workItem from="1729571408392" duration="106000" />
       <workItem from="1729571552830" duration="6276000" />
-      <workItem from="1729583806792" duration="10362000" />
+      <workItem from="1729583806792" duration="10728000" />
+      <workItem from="1729598756401" duration="3398000" />
+      <workItem from="1729654029604" duration="383000" />
     </task>
     <task id="LOCAL-00001" summary="Numpy">
       <option name="closed" value="true" />
@@ -186,7 +189,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729593661177</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Panda 4">
+      <option name="closed" value="true" />
+      <created>1729595042860</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1729595042860</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -203,16 +214,18 @@
     <MESSAGE value="Panda 1" />
     <MESSAGE value="Panda 2" />
     <MESSAGE value="Panda 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Panda 3" />
+    <MESSAGE value="Panda 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Panda 4" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/NumpyAndPanda$classTwo.coverage" NAME="classTwo Coverage Results" MODIFIED="1729591643907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Panda" />
-    <SUITE FILE_PATH="coverage/NumpyAndPanda$classFour.coverage" NAME="classFour Coverage Results" MODIFIED="1729594772650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Panda" />
+    <SUITE FILE_PATH="coverage/NumpyAndPanda$classFour.coverage" NAME="classFour Coverage Results" MODIFIED="1729595005891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Panda" />
+    <SUITE FILE_PATH="coverage/NumpyAndPanda$classFive.coverage" NAME="classFive Coverage Results" MODIFIED="1729604705997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Panda" />
     <SUITE FILE_PATH="coverage/NumpyAndPanda$classThree.coverage" NAME="classThree Coverage Results" MODIFIED="1729593413352" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Panda" />
     <SUITE FILE_PATH="coverage/NumpyAndPanda$classFIve.coverage" NAME="classFIve Coverage Results" MODIFIED="1729577721831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Numpy" />
     <SUITE FILE_PATH="coverage/NumpyAndPanda$classSix.coverage" NAME="classSix Coverage Results" MODIFIED="1729579815271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Numpy" />
     <SUITE FILE_PATH="coverage/NumpyAndPanda$classOne.coverage" NAME="classOne Coverage Results" MODIFIED="1729589166925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Panda" />
     <SUITE FILE_PATH="coverage/NumpyAndPanda$classEight.coverage" NAME="classEight Coverage Results" MODIFIED="1729585669128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Numpy" />
-    <SUITE FILE_PATH="coverage/NumpyAndPanda$classSeven.coverage" NAME="classSeven Coverage Results" MODIFIED="1729584909942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Numpy" />
+    <SUITE FILE_PATH="coverage/NumpyAndPanda$classSeven.coverage" NAME="classSeven Coverage Results" MODIFIED="1729601033531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Numpy" />
   </component>
 </project>
