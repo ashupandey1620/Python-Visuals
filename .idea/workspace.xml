@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c2f7815e-1dfe-4a2d-beda-04ad28a7657d" name="Changes" comment="Panda 10 pivot()">
-      <change afterPath="$PROJECT_DIR$/Seaborn/classOne.py" afterDir="false" />
+    <list default="true" id="c2f7815e-1dfe-4a2d-beda-04ad28a7657d" name="Changes" comment="Seaborn 1 Line Chart">
+      <change afterPath="$PROJECT_DIR$/Seaborn/classTwo.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -93,7 +93,7 @@
       <workItem from="1729571552830" duration="6276000" />
       <workItem from="1729583806792" duration="10728000" />
       <workItem from="1729598756401" duration="3398000" />
-      <workItem from="1729654029604" duration="16458000" />
+      <workItem from="1729654029604" duration="20208000" />
     </task>
     <task id="LOCAL-00001" summary="Numpy">
       <option name="closed" value="true" />
@@ -247,7 +247,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729666260903</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Seaborn 1 Line Chart">
+      <option name="closed" value="true" />
+      <created>1729673148253</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1729673148253</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -271,11 +279,12 @@
     <MESSAGE value="Panda 8 groupBy() and merge()" />
     <MESSAGE value="Panda 9 append()" />
     <MESSAGE value="Panda 10 pivot()" />
-    <option name="LAST_COMMIT_MESSAGE" value="Panda 10 pivot()" />
+    <MESSAGE value="Seaborn 1 Line Chart" />
+    <option name="LAST_COMMIT_MESSAGE" value="Seaborn 1 Line Chart" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/NumpyAndPanda$classTwo.coverage" NAME="classTwo Coverage Results" MODIFIED="1729591643907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Panda" />
     <SUITE FILE_PATH="coverage/NumpyAndPanda$classNine.coverage" NAME="classNine Coverage Results" MODIFIED="1729663006449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Panda" />
+    <SUITE FILE_PATH="coverage/NumpyAndPanda$classTwo.coverage" NAME="classTwo Coverage Results" MODIFIED="1729677772658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Seaborn" />
     <SUITE FILE_PATH="coverage/NumpyAndPanda$classFour.coverage" NAME="classFour Coverage Results" MODIFIED="1729595005891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Panda" />
     <SUITE FILE_PATH="coverage/NumpyAndPanda$classFive.coverage" NAME="classFive Coverage Results" MODIFIED="1729654385944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Panda" />
     <SUITE FILE_PATH="coverage/NumpyAndPanda$classTen.coverage" NAME="classTen Coverage Results" MODIFIED="1729666031588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Panda" />
